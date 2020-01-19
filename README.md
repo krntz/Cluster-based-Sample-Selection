@@ -9,9 +9,9 @@ vol. 5, pp. 47–52.
 A description of how to use it can be found in the `src` folder. 
 The raw data (Psuedo F-Measure values) from the performed experiments can be found in `results.csv` and binarized images can be found in the `images` folder.
 
-## Note on reuse and/or redistribution of code
+## Note on reuse and/or redistribution of code and/or data
 
-You are free to use the code and/or data in this repository (either all of it or parts of it) for research, teaching, or other academic/scholarly pursuits as long as the above paper is cited.
+You are free to use the code and/or data (i.e. anything in the repository that is not code, including but not limited to images and test results) in this repository (either all of it or parts of it) for academic research, teaching, or other academic/scholarly pursuits as long as the above paper is cited. For any other use cases not covered here (e.g. business or enteprise), please contact me before using the code and/or data present in this repository.
 
 ## Running
 
