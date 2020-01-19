@@ -1,6 +1,11 @@
 # Cluster-based Sample Selection for Document Image Binarization
 
-This repository contains the implementation of the approach proposed in this paper. A description of how to use it can be found in the `src` folder. 
+The code in this repository accompanies the following paper:
+A. Krantz and F. Westphal, “Cluster-Based Sample Selection for Document Image Binarization,” in
+*2019 International Conference on Document Analysis and Recognition Workshops (ICDARW)*, 2019,
+vol. 5, pp. 47–52.
+
+A description of how to use it can be found in the `src` folder. 
 The raw data (Psuedo F-Measure values) from the performed experiments can be found in `results.csv` and binarized images can be found in the `images` folder.
 
 
