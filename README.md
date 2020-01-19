@@ -11,7 +11,7 @@ The raw data (Psuedo F-Measure values) from the performed experiments can be fou
 
 ## Note on reuse and/or redistribution of code
 
-You are free to use the code in this repository (either all of it or parts of it) for research, teaching, or other academic/scholarly pursuits as long as the above paper is cited.
+You are free to use the code and/or data in this repository (either all of it or parts of it) for research, teaching, or other academic/scholarly pursuits as long as the above paper is cited.
 
 ## Running
 
